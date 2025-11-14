@@ -5,3 +5,4 @@
 ③修正が終わりましたら、各自のgithubにpushを行なってください。  
 ④issue毎にPull requestを作成してください。  
 ⑤作成したPull requestをdiscordにて共有ください。
+# Kadai1
