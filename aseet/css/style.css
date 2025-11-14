@@ -125,6 +125,28 @@ News
 }
 
 /*-------------------------------------------
+FAQ (Q&A)
+-------------------------------------------*/
+#faq dl {
+  display: block;
+  border-top: solid 1px #c8c8c8;
+  margin-bottom: 20px;
+}
+#faq dt {
+  display: block;
+  width: 100%;
+  padding: 15px 10px;
+  font-weight: bold;
+}
+#faq dd {
+  display: block;
+  width: 100%;
+  padding: 15px 10px;
+  border-bottom: 1px solid #c8c8c8;
+  margin: 0;
+}
+
+/*-------------------------------------------
 Contact
 -------------------------------------------*/
 #contact dl {
